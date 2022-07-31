@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(248, 209, 150) ;
+}
+
+.header{
+    background-color: rgb(240, 158, 35);
+     margin: 0; 
+    padding: 0;
+    height: 130px;
+    width: 100%;
+    margin-top: 0;
+    border: none;
+    /* display: inline-block;/ */
+    
+}
+.mid{
+    margin-top: 0;
+    margin-left: 550px;
+    padding: 24px;
+    /* width: 1000px; */
+
+}
+.navbar li{
+    display: inline-block;
+    /* color: black; */
+    text-decoration: none;
+
+}
+.navbar li a{
+    color: black;
+    text-decoration: none;
+    margin: 35px;
+    font-size: 25px;
+}
+.navbar li a:hover{
+    color:rgb(189, 59, 27);
+    text-decoration: underline;
+
+}
+.right{
+    display: inline-block;
+    /* width: auto; */
+    /* background-color: blue; */
+   position: absolute;
+     right: 60px;
+     top: 39px;
+
+     /* width: 200px; */
+     /* height: 50px; */
+     /* top: 20px;/ */
+
+}
+.btn{
+    margin: 0px 9px ;
+    color:black;
+    background-color:wheat;
+    padding: 4px 14px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+.container{
+    /* margin: 0;  */
+    /* padding: 0; */
+    width: 100%;
+    height: 400px;
+    /* background-color: tomato; */
+    
+
+}
+.inner1{
+    margin-left: 105px;
+}
+
+h1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    /* font-family: 'Permanent Marker', cursive; */
+    font-size: 37px;
+}
+p{
+    font-family: 'Exo 2', sans-serif;
+    font-size: 30px;
+}
+.inner2{
+    background-color: blue;
+    height: 398px;
+    width: 555px;
+    /* float: right; */
+    position: absolute;
+    top:155px;
+    right: 112px;
+}
+.end{
+    /* background-color: violet; */
+    height: 700px;
+    width: 100%;
+}
+h2{
+    font-size: 40px;
+    margin-left: 105px;
+}
+.first{
+    /* margin-left: 105px; */
+    display: flex;
+}
+.second{
+    /* margin-left: 105px; */
+    display: flex;
+    margin-top: 30px;
+}
+.third{
+    /* margin-left: 105px; */
+    display: flex;
+    margin-top: 30px;
+}
+.btn1{
+    font-family: 'Fredoka One', cursive;
+    height: 130px;
+    width: 130px;
+    /* padding: 20px; */
+    /* margin: 5px; */
+    margin-top: 0px;
+    margin-left: 103px;
+    font-size: 15px;
+    border-radius: 6px;
+    border-style: 4px groove;
+    background-color:rgb(241, 154, 22) ;
+
+}
+.btn1:hover{
+    background-color: rgb(236, 189, 100);
+}
+
+
